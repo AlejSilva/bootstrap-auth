@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bootstrap-auth/static/css/main.15f224d4.css",
+    "main.js": "/bootstrap-auth/static/js/main.b5b29955.js",
+    "index.html": "/bootstrap-auth/index.html",
+    "main.15f224d4.css.map": "/bootstrap-auth/static/css/main.15f224d4.css.map",
+    "main.b5b29955.js.map": "/bootstrap-auth/static/js/main.b5b29955.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.15f224d4.css",
+    "static/js/main.b5b29955.js"
+  ]
+}
