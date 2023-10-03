@@ -8,7 +8,5 @@ This is a simple authentication app built using React, React Bootstrap, Firebase
 
 - Email and Password Login: Registered users can log in with their email and password.
 
-- Google Sign-In: Users can also choose to log in using their Google account, thanks to React Google Sign-In integration.
-
 - Protected Routes: Certain routes in the app are protected and can only be accessed by authenticated users. Unauthorized users are redirected to the login page.
 
