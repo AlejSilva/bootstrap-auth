@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/bootstrap-auth/static/css/main.15f224d4.css",
-    "main.js": "/bootstrap-auth/static/js/main.b5b29955.js",
+    "main.js": "/bootstrap-auth/static/js/main.7770f89e.js",
     "index.html": "/bootstrap-auth/index.html",
     "main.15f224d4.css.map": "/bootstrap-auth/static/css/main.15f224d4.css.map",
-    "main.b5b29955.js.map": "/bootstrap-auth/static/js/main.b5b29955.js.map"
+    "main.7770f89e.js.map": "/bootstrap-auth/static/js/main.7770f89e.js.map"
   },
   "entrypoints": [
     "static/css/main.15f224d4.css",
-    "static/js/main.b5b29955.js"
+    "static/js/main.7770f89e.js"
   ]
 }
