@@ -2,7 +2,7 @@
   "name": "bootstrap-auth",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://AlejSilva.github.io/React-Firebase-Auth",
+  "homepage": "https://AlejSilva.github.io/bootstrap-auth",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

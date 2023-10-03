@@ -13,15 +13,15 @@ function App() {
       <Row>
         <Col>
         <UserAuthContextProvider>
-        <Routes>
-          <Route path="/" element={<Login />} />
-          <Route path="/signup" element={<Signup />} />
-          <Route path="/home"
-           element={
-           <ProtectedRoute>
-            <Home/>
-            </ProtectedRoute>} />
-        </Routes>
+          <Routes>
+            <Route path="/" element={<Login />} />
+            <Route path="/signup" element={<Signup />} />
+            <Route path="/home"
+            element={
+            <ProtectedRoute>
+              <Home/>
+              </ProtectedRoute>} />
+          </Routes>
         </UserAuthContextProvider>
         </Col>
       </Row>
